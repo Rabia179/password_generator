@@ -1,4 +1,6 @@
 # password_generator
+<img width="487" height="1280" alt="WhatsApp Image 2026-08-18 at 9 33 50 AM" src="https://github.com/user-attachments/assets/4fdc16ca-724c-4c97-84e1-30fe221fd373" />
+
 
 A new Flutter project.
 
